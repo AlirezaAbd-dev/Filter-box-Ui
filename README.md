@@ -1,16 +1,35 @@
-# filterboxui
+<div align="center">
+  <h1 align='center' style="font-size:5rem"><b>Filter Box UI</b></h1>
+  <h4 align='center' style="font-size:5rem"><i>Written With Flutter 3.8.0-14.0.pre.1</i></h4>
 
-A new Flutter project.
+Operating System  |  Version  |  Download
+------------- | ------------- | -------------
+Android  | 10  | [Download Apk](https://codeload.github.com/shervinbdndev/Filter-box-Ui/zip/refs/heads/apk)
 
-## Getting Started
+</div>
+<br><br><br>
+<h2 align='center'>
+    UI Training
+</h2>
 
-This project is a starting point for a Flutter application.
+<br><br><br>
+<div align='center'>
+    <p>Preview</p>
+    <img style='border-radius:5px' src="https://github.com/shervinbdndev/Filter-box-Ui/blob/mobile/images/picture.png" width="300px" height="600px"></img>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+<hr>
+<br><br><br><br>
+<h1 align='center'><b>Language and technologies used in This Project</h1>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></img>
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br><br><br><br>
+<h1 align='center'><b>WorkSpace</h1>
+<img src="https://img.shields.io/badge/Intel-Core_i5_10700K-0071C5?style=for-the-badge&logo=intel&logoColor=white"></img>
+<img src="https://img.shields.io/badge/NVIDIA-RTX2060 OC-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
+<hr>
