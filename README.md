@@ -15,7 +15,7 @@ Android  | 10  | [Download Apk](https://codeload.github.com/shervinbdndev/Filter
 <br><br><br>
 <div align='center'>
     <p>Preview</p>
-    <img style='border-radius:5px' src="https://github.com/shervinbdndev/Filter-box-Ui/blob/mobile/images/picture.png" width="300px" height="600px"></img>
+    <img style='border-radius:5px' src="https://github.com/shervinbdndev/Filter-box-Ui/blob/android/images/picture.png" width="300px" height="600px"></img>
 </div>
 <hr>
 <br><br><br><br>
